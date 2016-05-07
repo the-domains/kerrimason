@@ -1,0 +1,28 @@
+name: kerrimason
+favicon: null
+layout_spectrum: 0.8530807066708803
+typography_spectrum: 0.03600815637037158
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.23326662788167596
+  lightness: 0.707688516471535
+  saturation: 0.6675974072422832
+  rhythmicContrast: 0.7933603834826499
+purpose: []
